@@ -1,2 +1,2 @@
 # BFPT-SymbolicRegression
- A demonstration of the Banach Fixed Point Theorem (BFPT) for deriving the general formulas in symbolic regression.
+ A demonstration of the Banach Fixed Point Theorem (BFPT) for deriving general formulas in symbolic regression.
