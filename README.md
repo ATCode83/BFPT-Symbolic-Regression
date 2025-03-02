@@ -1,6 +1,6 @@
 # BFPT Half-Life Symbolic Regression
 
-This repository demonstrates how the **Banach Fixed Point Theorem (BFPT)** can be used in **symbolic regression** to derive the **general half-life formula** for particle decay using Python. Traditionally, differential equations serve as the foundation for modeling physical phenomena, but this novel approach highlights how metric spaces and contraction mappings can be leveraged as a complementary tool in mathematical physics.
+This repository demonstrates how the **Banach Fixed Point Theorem (BFPT)** can be used in **symbolic regression** to derive the **general half-life formula** for particle decay using Python. Traditionally, differential equations serve as the foundation for modeling physical phenomena, but this novel approach highlights how metric spaces and contraction mappings can be leveraged as a complementary tool in mathematical modelling.
 
 ## 🔹 Origins of the Discovery
 The inspiration for applying BFPT to derive new symbolic regression formulas emerged from email exchanges with Dr. Rainer Weiss, co-founder of LIGO. The core method presented was used to find a general half-life formula for particle decay and Dr. Weiss thought it novel enough for further exploration. This repository is an outgrowth of those conversations.
