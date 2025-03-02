@@ -49,10 +49,7 @@ This project is just the beginning. Future updates will explore:
 ## 🏆 Acknowledgments
 A special thanks to **Dr. Rainer Weiss**, Nobel Laureate and co-founder of **LIGO**, for his invaluable guidance, insightful discussions, and encouragement in exploring this novel approach to deriving closed-form formulas in physics.
 
-## 📝 License
-This project is licensed under the **MIT License**.
-
 ---
-🚀 **This repository showcases a revolutionary method for deriving closed-form formulas in physics. Stay tuned for updates!** 🔥
+🚀 **This repository showcases a novel method for deriving closed-form formulas in physics. Stay tuned for updates!** 🔥
 
 
