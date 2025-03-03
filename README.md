@@ -57,7 +57,7 @@ python src/bfpt_half_life.py
 
 ## 🔭 Possible Future Investigations
 This project is just the beginning. Possible future updates will explore:
-- Discovering **new formulas for physical phenomena** using BFPT.
+- Discovering **new formulas for dynamical systems** using BFPT.
 - Investigating **thermodynamic laws and energy dissipation** using contraction mappings.
 - Applying BFPT-based symbolic regression to **general relativity and quantum mechanics**.
 - Comparing BFPT-based methods with traditional **differential equation approaches**.
