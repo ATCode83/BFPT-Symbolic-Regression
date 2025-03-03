@@ -25,9 +25,13 @@ The inspiration for applying BFPT to derive new symbolic regression formulas eme
 ## ⚡ How It Works
 ### **Step-by-Step Method**
 1️⃣ **Define a Metric Space:** Represent data as points in a complete metric space with a well-defined distance function.
+
 2️⃣ **Identify a Contraction Mapping:** Explore potential mappings that satisfy the contraction property.
+
 3️⃣ **Verify Contraction Condition:** Ensure the mapping meets the contraction criteria, guaranteeing convergence.
+
 4️⃣ **Apply Banach Fixed Point Theorem:** Iterate the contraction mapping until a stable solution is reached.
+
 5️⃣ **Derive a Closed-Form Formula:** Express the fixed point as a symbolic equation to reveal the general law.
 
 ### **Running the Script**
