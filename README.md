@@ -10,13 +10,12 @@ The inspiration for applying BFPT to derive new symbolic regression formulas eme
 - Applies **BFPT** to automatically find a **closed-form formula**.
 - Derives the **general half-life formula** from first principles.
 - Demonstrates the **convergence of the fixed-point iteration** to the classical decay formula.
+- Provides a **fully symbolic derivation**—no numerical fitting or approximation.
 
 ## 📂 Project Structure
 ```
 📦 BFPT-HalfLife-SymbolicRegression
 ├── 📄 README.md          # Explanation & Instructions
-├── 📂 data               # Example CSV datasets
-│   ├── exponential_decay.csv
 ├── 📂 src                # Python script for deriving formulas
 │   ├── bfpt_half_life.py
 ├── 📄 LICENSE            # Open-source license
@@ -34,6 +33,8 @@ The inspiration for applying BFPT to derive new symbolic regression formulas eme
 
 5️⃣ **Derive a Closed-Form Formula:** Express the fixed point as a symbolic equation to reveal the general law.
 
+6️⃣ **Ensure the Formula Generalizes:** Verify that the derived equation holds for all points in the metric space.
+
 ### **Running the Script**
 1️⃣ **Clone the repository**:
 ```sh
@@ -43,16 +44,19 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/BFPT-HalfLife-SymbolicRegressi
 ```sh
 python src/bfpt_half_life.py
 ```
-3️⃣ **Enter the CSV file path and column names when prompted**.
-
-## 📊 Example Output
+3️⃣ **Observe the Output (Symbolic Derivation):**
 ```
-📌 General Exponential Decay Formula: P(t) = P0 * α^(t / β)
-📌 General Half-Life Formula: t_1/2 = (ln(2) / ln(1/α)) * β
+🔹 **Symbolic Derivation using BFPT** 🔹
+
+📌 **General Exponential Decay Formula:**
+   P(t) = P0 * α^(t / β)
+
+📌 **General Half-Life Formula:**
+   t_1/2 = (ln(2) / ln(1/α)) * β
 ```
 
-## 🔭 Future Investigations
-This project is just the beginning. Future updates will explore:
+## 🔭 Possible Future Investigations
+This project is just the beginning. Possible future updates will explore:
 - Discovering **new formulas for physical phenomena** using BFPT.
 - Investigating **thermodynamic laws and energy dissipation** using contraction mappings.
 - Applying BFPT-based symbolic regression to **general relativity and quantum mechanics**.
@@ -68,4 +72,5 @@ This project is licensed under the **MIT License**.
 
 ---
 🚀 **This repository showcases a revolutionary method for deriving closed-form formulas in physics. Stay tuned for updates!** 🔥
+
 
