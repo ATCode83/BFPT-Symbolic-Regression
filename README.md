@@ -55,7 +55,7 @@ The **Python script** included in this repository is **purely symbolic**, meanin
 ### **Steps to Run:**
 1️⃣ **Clone the repository**:
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/BFPT-HalfLife-SymbolicRegression.git
+git clone https://github.com/YOUR_GITHUB_USERNAME/BFPT-Symbolic-Regression.git
 ```
 2️⃣ **Run the script**:
 ```sh
