@@ -21,11 +21,11 @@ The inspiration for applying **BFPT** to derive new symbolic regression formulas
 ## 📂 **Project Structure**
 ```
 📦 BFPT-HalfLife-SymbolicRegression
-├── 📄 README.md          # Explanation & Instructions
 ├── 📂 src                # Python script for deriving formulas
-│   ├── bfpt_half_life.py # Symbolic computation using BFPT
-├── 📄 PhysicsBFPTCompFormulas030225.pdf # Paper outlining the full derivation
-├── 📄 LICENSE            # Open-source license
+│   ├── bfpt_half_life.py
+├── 📄 LICENSE.txt        # Open-source MIT license
+├── 📄 PhysicsBFPTCompFormulas030225.pdf  # Research paper on BFPT approach
+├── 📄 README.md          # Explanation & Instructions
 ```
 ### **📜 Included Paper**
 The full derivation of the half-life formula using **BFPT** is detailed in **PhysicsBFPTCompFormulas030225.pdf**, which serves as the theoretical foundation for this project.
