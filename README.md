@@ -10,7 +10,7 @@ The inspiration for applying **BFPT** to derive new symbolic regression formulas
 ---
 
 ## 🔹 **Overview of This Project**
-- Uses **complete metric spaces** and **contraction mappings** as an alternative to differential equations.
+- Uses **complete metric spaces** and **contraction mappings** as a complement to differential equations.
 - Applies **BFPT** to automatically find a **closed-form formula**.
 - Derives the **general half-life formula** from first principles.
 - Demonstrates the **convergence of the fixed-point iteration** to the new general decay formula.
