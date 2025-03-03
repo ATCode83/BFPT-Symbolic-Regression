@@ -5,7 +5,7 @@ This repository demonstrates how the **Banach Fixed Point Theorem (BFPT)** can b
 ---
 
 ## 🔹 **Origins of the Discovery**
-The inspiration for applying **BFPT** to derive new symbolic regression formulas emerged from email exchanges with **Dr. Rainer Weiss**. The core method presented here was used to derive a **general half-life formula for particle decay**, which Dr. Weiss found novel and encouraged further exploration. Notably, he thought this approach hinted at a possible **unification of particle decay detected under different interactions**. This repository is an outgrowth of those conversations.
+The inspiration for applying **BFPT** to derive new symbolic regression formulas emerged from email exchanges with **Dr. Rainer Weiss**. The core method presented here was used to derive a **general half-life formula for particle decay**, which Dr. Weiss found novel and encouraged further exploration. This repository is an outgrowth of those conversations.
 
 ---
 
